@@ -1,5 +1,8 @@
 """Matemaatilised tehted"""
 
+import math
+
+# lisa veel midagi
 
 # küsime kasutajalt ujuvkomaarvu kujul kolmnurga kaatetid a ja b
 
